@@ -1,0 +1,10 @@
+[2025-05-22 03:44:55.836000+00:00] Arrebate RP#6058: **Nuevo Ticket | Nexus Hosting. ⚡**
+Espere a que un miembro del STAFF venga a revisar su TICKET
+
+**ID de Ticket:** `D8C97JR4`
+**Motivo de contato:** ayuyda
+**Tipo de ticket:** [🔖] Soporte
+
+**Nuevo Ticket | Nexus Hosting. ⚡**
+[2025-05-22 03:45:40.937000+00:00] Arrebate RP#6058: 📲 <@994262667449618493>, el equipo de soporte quiere contactarte.
+[2025-05-22 03:45:43.514000+00:00] Arrebate RP#6058: ✅ Ticket asumido por <@994262667449618493>

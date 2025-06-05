@@ -1,0 +1,6 @@
+[2025-06-05 04:00:04.787000+00:00] Arrebate RP#6058: **## Nuevo Ticket | Arrebate RP**
+Espere a que un miembro del STAFF venga a revisar su TICKET
+
+**ID de Ticket:** `00Q829E1`
+**Motivo de contacto:** `ho`
+**Tipo de ticket:** `Soporte`

@@ -1,0 +1,11 @@
+[2025-05-26 23:36:49.400000+00:00] Arrebate RP#6058: **## Nuevo Ticket | Arrebate Roleplay**
+Espere a que un miembro del STAFF venga a revisar su TICKET
+
+**ID de Ticket:** `CGL7IUIV`
+**Motivo de contato:** `Prueba`
+**Tipo de ticket:** `Soporte`
+[2025-05-26 23:36:58.566000+00:00] Arrebate RP#6058: ✅ Ticket asumido por <@994262667449618493>
+[2025-05-26 23:37:02.460000+00:00] retiredbydn: klk
+[2025-05-26 23:37:08.527000+00:00] soy_baby__: Eso ta nítido
+[2025-05-26 23:37:08.661000+00:00] Arrebate RP#6058: 📲 <@1261203349374500935>, el equipo de soporte quiere contactarte.
+[2025-05-26 23:37:21.260000+00:00] retiredbydn: claro pah
